@@ -6,7 +6,6 @@
 
 from PIL import Image           
 from playsound import playsound
-import streamlit as st
 
 #To install library in terminal follow this https://pillow.readthedocs.io/en/stable/installation.html
 #### Rooms
